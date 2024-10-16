@@ -52,40 +52,41 @@ const Tokenomics = () => (
           ))}
         </div>
       </div>
+      <div>
+        <div className="token-info">
+          <h3>Token Information</h3>
+          <p>
+            <strong>Name</strong>: EthAi
+          </p>
+          <p>
+            <strong>Token Name</strong>: $EthAi
+          </p>
+          <p>
+            <strong>Token Standard</strong> : ERC20
+          </p>
+          <p>
+            <strong>Blockchain</strong> : Ethereum
+          </p>
+          <p>
+            <strong>Total Supply</strong>: 100 Million
+          </p>
+          <p>
+            <strong>Tax</strong>: 5%/5%
+          </p>
+        </div>
 
-      <div className="token-info">
-        <h3>Token Information</h3>
-        <p>
-          <strong>Name</strong>: EthAi
-        </p>
-        <p>
-          <strong>Token Name</strong>: $EthAi
-        </p>
-        <p>
-          <strong>Token Standard</strong>: ERC20
-        </p>
-        <p>
-          <strong>Blockchain</strong>: Ethereum
-        </p>
-        <p>
-          <strong>Total Supply</strong>: 100 Million
-        </p>
-        <p>
-          <strong>Tax</strong>: 5%/5%
-        </p>
-      </div>
-
-      <div className="distribution-info">
-        <h3>Distribution</h3>
-        <p>
-          <strong>Team</strong>: 35%
-        </p>
-        <p>
-          <strong>Marketing</strong>: 5%
-        </p>
-        <p>
-          <strong>Liquidity Pool</strong>: 90%
-        </p>
+        <div className="distribution-info">
+          <h3>Distribution</h3>
+          <p>
+            <strong>Team</strong>: 35%
+          </p>
+          <p>
+            <strong>Marketing</strong>: 5%
+          </p>
+          <p>
+            <strong>Liquidity Pool</strong>: 90%
+          </p>
+        </div>
       </div>
     </div>
   </div>

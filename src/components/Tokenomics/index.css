@@ -31,6 +31,9 @@
   margin-right: 40px;
   margin-bottom: 80px;
 }
+.strong {
+  margin-right: 80px;
+}
 
 .pie-chart-labels {
   display: flex;
@@ -51,13 +54,26 @@
   margin-right: 10px;
 }
 
-.token-info,
-.distribution-info {
-  background-color: rgba(0, 22, 29, 0.8);
-  padding: 20px;
+.token-info {
+  width: Hug (538px) px;
+  height: Hug (324px) px;
+  padding: 12px 56px 12px 56px;
+  gap: 0px;
+  border-radius: 20px;
+  opacity: 0px;
+  background: #0c2b2fb2;
+  backdrop-filter: blur(15.699999809265137px);
   margin-bottom: 20px;
-  border-radius: 10px;
-  width: 300px;
+}
+.distribution-info {
+  width: Hug (538px) px;
+  height: Hug (174px) px;
+  padding: 12px 56px 12px 56px;
+  gap: 0px;
+  border-radius: 20px;
+  opacity: 0px;
+  background: #0c2b2fb2;
+  backdrop-filter: blur(15.699999809265137px);
 }
 
 h3 {
