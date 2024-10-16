@@ -18,7 +18,7 @@ Technologies Used
 Getting Started
   To get a local copy of the project and start development:
 Clone the repository:
-  git clone https://github.com/Chandana-KR/Chandana_KR---Frontend-Developer.git
+  git clone https://github.com/Chandana-KR/Chandana-KR---Frontend-Developer.git
 Install dependencies:
    npm install
 Run the development server:
