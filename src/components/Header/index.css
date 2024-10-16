@@ -36,6 +36,10 @@
   color: #b0faffb2;
   margin-bottom: 10px;
 }
+.link {
+  text-decoration: none;
+  color: #b0faffb2;
+}
 .larger-header-container {
   display: none;
 }

@@ -10,10 +10,18 @@ import './App.css'
 const App = () => (
   <>
     <Home />
-    <FeaturesSection />
-    <AboutSection />
-    <Tokenomics />
-    <RoadmapSection />
+    <section id="features">
+      <FeaturesSection />
+    </section>
+    <section id="why-us">
+      <AboutSection />
+    </section>
+    <section id="tokenomics">
+      <Tokenomics />
+    </section>
+    <section id="roadmap">
+      <RoadmapSection />
+    </section>
     <Footer />
   </>
 )

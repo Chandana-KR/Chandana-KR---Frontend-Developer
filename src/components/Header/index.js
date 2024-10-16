@@ -37,10 +37,26 @@ const Header = () => {
 
       <div className="larger-header-container">
         <ul className="large-nav-list-container">
-          <li className="item">Features</li>
-          <li className="item">Why Us</li>
-          <li className="item">Tokenomics</li>
-          <li className="item">Roadmap</li>
+          <li className="item">
+            <a href="#features" className="link">
+              Features
+            </a>
+          </li>
+          <li className="item">
+            <a href="#why-us" className="link">
+              Why Us
+            </a>
+          </li>
+          <li className="item">
+            <a href="#tokenomics" className="link">
+              Tokenomics
+            </a>
+          </li>
+          <li className="item">
+            <a href="#roadmap" className="link">
+              Roadmap
+            </a>
+          </li>
         </ul>
         <div className="button-container">
           <button type="button" className="login-button">
